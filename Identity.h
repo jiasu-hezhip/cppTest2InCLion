@@ -10,7 +10,7 @@ using namespace std;
 class Identity {
 public:
     virtual void OpenMenu() = 0;
-
+    virtual ~Identity(){};
     string m_Name;
     string m_Pwd;
 };

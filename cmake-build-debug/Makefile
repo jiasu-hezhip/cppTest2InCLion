@@ -143,6 +143,33 @@ untitled2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/build
 .PHONY : untitled2/fast
 
+ComputerRoom.o: ComputerRoom.cpp.o
+
+.PHONY : ComputerRoom.o
+
+# target to build an object file
+ComputerRoom.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/ComputerRoom.cpp.o
+.PHONY : ComputerRoom.cpp.o
+
+ComputerRoom.i: ComputerRoom.cpp.i
+
+.PHONY : ComputerRoom.i
+
+# target to preprocess a source file
+ComputerRoom.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/ComputerRoom.cpp.i
+.PHONY : ComputerRoom.cpp.i
+
+ComputerRoom.s: ComputerRoom.cpp.s
+
+.PHONY : ComputerRoom.s
+
+# target to generate assembly for a file
+ComputerRoom.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/ComputerRoom.cpp.s
+.PHONY : ComputerRoom.cpp.s
+
 Manager.o: Manager.cpp.o
 
 .PHONY : Manager.o
@@ -169,6 +196,33 @@ Manager.s: Manager.cpp.s
 Manager.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/Manager.cpp.s
 .PHONY : Manager.cpp.s
+
+OrderFile.o: OrderFile.cpp.o
+
+.PHONY : OrderFile.o
+
+# target to build an object file
+OrderFile.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/OrderFile.cpp.o
+.PHONY : OrderFile.cpp.o
+
+OrderFile.i: OrderFile.cpp.i
+
+.PHONY : OrderFile.i
+
+# target to preprocess a source file
+OrderFile.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/OrderFile.cpp.i
+.PHONY : OrderFile.cpp.i
+
+OrderFile.s: OrderFile.cpp.s
+
+.PHONY : OrderFile.s
+
+# target to generate assembly for a file
+OrderFile.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled2.dir/build.make CMakeFiles/untitled2.dir/OrderFile.cpp.s
+.PHONY : OrderFile.cpp.s
 
 Student.o: Student.cpp.o
 
@@ -260,9 +314,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... untitled2"
+	@echo "... ComputerRoom.o"
+	@echo "... ComputerRoom.i"
+	@echo "... ComputerRoom.s"
 	@echo "... Manager.o"
 	@echo "... Manager.i"
 	@echo "... Manager.s"
+	@echo "... OrderFile.o"
+	@echo "... OrderFile.i"
+	@echo "... OrderFile.s"
 	@echo "... Student.o"
 	@echo "... Student.i"
 	@echo "... Student.s"

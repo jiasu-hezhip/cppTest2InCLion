@@ -4,7 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/Apple/CLionProjects/untitled2/ComputerRoom.cpp" "/Users/Apple/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/ComputerRoom.cpp.o"
   "/Users/Apple/CLionProjects/untitled2/Manager.cpp" "/Users/Apple/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/Manager.cpp.o"
+  "/Users/Apple/CLionProjects/untitled2/OrderFile.cpp" "/Users/Apple/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/OrderFile.cpp.o"
   "/Users/Apple/CLionProjects/untitled2/Student.cpp" "/Users/Apple/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/Student.cpp.o"
   "/Users/Apple/CLionProjects/untitled2/Teacher.cpp" "/Users/Apple/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/Teacher.cpp.o"
   "/Users/Apple/CLionProjects/untitled2/main.cpp" "/Users/Apple/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/main.cpp.o"

@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/Apple/CLionProjects/untitled2/ComputerRoom.cpp">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="/Users/Apple/CLionProjects/untitled2/ComputerRoom.h">
+			<Option target="untitled2"/>
+		</Unit>
 		<Unit filename="/Users/Apple/CLionProjects/untitled2/GlobalFile.h">
 			<Option target="untitled2"/>
 		</Unit>
@@ -90,6 +96,12 @@
 			<Option target="untitled2"/>
 		</Unit>
 		<Unit filename="/Users/Apple/CLionProjects/untitled2/Manager.h">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="/Users/Apple/CLionProjects/untitled2/OrderFile.cpp">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="/Users/Apple/CLionProjects/untitled2/OrderFile.h">
 			<Option target="untitled2"/>
 		</Unit>
 		<Unit filename="/Users/Apple/CLionProjects/untitled2/Student.cpp">

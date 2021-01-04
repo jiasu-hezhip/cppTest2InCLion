@@ -3,7 +3,14 @@
 //
 #pragma once
 #include <iostream>
+#include <string>
+#include <fstream>
+#include <vector>
 #include "Identity.h"
+#include "GlobalFile.h"
+#include "ComputerRoom.h"
+#include "OrderFile.h"
+
 using namespace std;
 class Student :public Identity{
 public:
@@ -23,4 +30,6 @@ public:
     void ShowAllOrder();
     //取消预约
     void CancerOrder();
+
+    vector<ComputerRoom> vCom;
 };

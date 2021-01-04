@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+/Users/Apple/CLionProjects/untitled2/ComputerRoom.h
+iostream
+-
+
 /Users/Apple/CLionProjects/untitled2/GlobalFile.h
 
 /Users/Apple/CLionProjects/untitled2/Identity.h
@@ -15,24 +19,66 @@ iostream
 /Users/Apple/CLionProjects/untitled2/Manager.h
 iostream
 -
+string
+-
+fstream
+-
+vector
+-
+algorithm
+-
+GlobalFile.h
+/Users/Apple/CLionProjects/untitled2/GlobalFile.h
 Identity.h
 /Users/Apple/CLionProjects/untitled2/Identity.h
-
-/Users/Apple/CLionProjects/untitled2/Student.cpp
 Student.h
 /Users/Apple/CLionProjects/untitled2/Student.h
+Teacher.h
+/Users/Apple/CLionProjects/untitled2/Teacher.h
+ComputerRoom.h
+/Users/Apple/CLionProjects/untitled2/ComputerRoom.h
+
+/Users/Apple/CLionProjects/untitled2/OrderFile.h
+GlobalFile.h
+/Users/Apple/CLionProjects/untitled2/GlobalFile.h
+iostream
+-
+fstream
+-
+string
+-
+map
+-
 
 /Users/Apple/CLionProjects/untitled2/Student.h
 iostream
 -
-Identity.h
-/Users/Apple/CLionProjects/untitled2/Identity.h
-
-/Users/Apple/CLionProjects/untitled2/Teacher.h
-iostream
+string
+-
+fstream
+-
+vector
 -
 Identity.h
 /Users/Apple/CLionProjects/untitled2/Identity.h
+GlobalFile.h
+/Users/Apple/CLionProjects/untitled2/GlobalFile.h
+ComputerRoom.h
+/Users/Apple/CLionProjects/untitled2/ComputerRoom.h
+OrderFile.h
+/Users/Apple/CLionProjects/untitled2/OrderFile.h
+
+/Users/Apple/CLionProjects/untitled2/Teacher.h
+string
+-
+iostream
+-
+vector
+-
+Identity.h
+/Users/Apple/CLionProjects/untitled2/Identity.h
+OrderFile.h
+/Users/Apple/CLionProjects/untitled2/OrderFile.h
 
 /Users/Apple/CLionProjects/untitled2/main.cpp
 iostream
@@ -47,8 +93,8 @@ GlobalFile.h
 /Users/Apple/CLionProjects/untitled2/GlobalFile.h
 Student.h
 /Users/Apple/CLionProjects/untitled2/Student.h
-Teacher.h
-/Users/Apple/CLionProjects/untitled2/Teacher.h
 Manager.h
 /Users/Apple/CLionProjects/untitled2/Manager.h
+Teacher.h
+/Users/Apple/CLionProjects/untitled2/Teacher.h
 
